@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Glad you're here, here are few things to know about me
 * 🔭 I’m currently working on gaining as much skills needed to build sustainable solutions to real world problems
 * 🌱 I’m currently learning Kotlin programming language and soft skills 
 * 👯 I’m looking to collaborate on building solutions

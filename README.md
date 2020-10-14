@@ -22,5 +22,5 @@ Glad you're here, here are few things to know about me
 * 🤔 I’m looking for help with staying up to date
 * 💬 Ask me about programming for Android
 * 📫 How to reach me: WhatsApp: https://wa.me/message/5FV4YA7LXZAMI1 LinkedIn :https://www.linkedin.com/in/bukunmi-ola Twitter: www.twitter.com/Bukun_me 
-* 😄 Pronouns: She Dev, SheCode
+* 😄 Pronouns: She/her
 * ⚡ Fun fact: I enjoy laughing best

@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## I'm Bukunmi Ola, a native mobile apps developer and Intelli-j plugin developer.
 Glad you're here, here are few things to know about me
-* 🔭 I’m currently working on gaining as much skills needed to build sustainable solutions to real world problems
-* 🌱 I’m currently learning Kotlin programming language and soft skills 
-* 👯 I’m looking to collaborate on building solutions
-* 🤔 I’m looking for help with staying up to date
-* 💬 Ask me about programming for Android
-* 📫 How to reach me: LinkedIn :https://www.linkedin.com/in/bukunmi-ola Twitter: www.twitter.com/Bukun_me 
-* 😄 Pronouns: She/her
+* 🔭 I’m currently working on a variety apps as they tickle my fancy
+* 🌱 I’m currently learning about Acceptance Test Driven Development while conttributing to open source projects at odk-x
+* 👯 I’m looking to collaborate on building both simple and sophisticated yet exciting solutions
+* 🤔 I’m looking for help with staying up to date with new technologies.
+* 💬 Ask me about programming for Android (Java/Kotlin) and iOS (Swift/SwiftUI/UIkit)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bukunmi-ola) [Twitter](www.twitter.com/Bukun_me) 
+* 😄 Pronouns: She/her/hers
 * ⚡ Fun fact: I enjoy laughing best

@@ -24,4 +24,4 @@ Glad you're here, here are few things to know about me
 * 💬 Ask me about programming for Android (Java/Kotlin) and iOS (Swift/SwiftUI/UIkit)
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bukunmi-ola) [Twitter](www.twitter.com/Bukun_me) 
 * 😄 Pronouns: She/her/hers
-* ⚡ Fun fact: I enjoy laughing best
+* ⚡ Fun fact: I enjoy laughing best 😂

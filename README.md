@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Bukunmi Ola, a native mobile apps developer and Intelli-j plugin developer.
+## I'm Bukunmi Asiyanbi, a native mobile apps developer and Intelli-j plugin developer.
 Glad you're here, here are few things to know about me
 * 🔭 I’m currently working on a variety apps as they tickle my fancy
-* 🌱 I’m currently learning about Acceptance Test Driven Development while conttributing to open source projects at odk-x
+* 🌱 I’m currently learning about Testing and building secure systems
 * 👯 I’m looking to collaborate on building both simple and sophisticated yet exciting solutions
 * 🤔 I’m looking for help with staying up to date with new technologies.
 * 💬 Ask me about programming for Android (Java/Kotlin) and iOS (Swift/SwiftUI/UIkit)
